@@ -58,7 +58,7 @@ import {
                 <UncontrolledDropdown inNavbar>
   
                   <DropdownToggle data-toggle="dropdown" nav caret>
-                    Bob
+                    Akbar
                     </DropdownToggle>
   
                   <DropdownMenu right>
